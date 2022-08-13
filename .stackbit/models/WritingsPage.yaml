@@ -1,7 +1,7 @@
 # .stackbit/models/WritingsPage.yaml
 
 name: Writings
-label: Blog Home
+label: Writings Home
 hideContent: true
 fields:
   - type: string
