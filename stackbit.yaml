@@ -18,6 +18,6 @@ contentModels:
   WritingsPage:
     isPage: true
     singleInstance: true
-    urlPath: '/blog'
+    urlPath: '/writings'
     file: 'blog/index.md'
     newFilePath: 'blog/index.md'
