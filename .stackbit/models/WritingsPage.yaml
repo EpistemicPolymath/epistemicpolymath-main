@@ -1,6 +1,6 @@
 # .stackbit/models/WritingsPage.yaml
 
-name: BlogPage
+name: Writings
 label: Blog Home
 hideContent: true
 fields:
