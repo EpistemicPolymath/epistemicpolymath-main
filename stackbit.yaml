@@ -15,7 +15,7 @@ contentModels:
     isPage: true
     urlPath: "/{slug}"
     newFilePath: "{slug}.md"
-  BlogPage:
+  WritingsPage:
     isPage: true
     singleInstance: true
     urlPath: '/blog'
