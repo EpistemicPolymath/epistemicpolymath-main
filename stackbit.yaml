@@ -20,4 +20,4 @@ contentModels:
     singleInstance: true
     urlPath: '/writings'
     file: 'writings/index.md'
-    newFilePath: 'blog/index.md'
+    newFilePath: 'writings/index.md'
