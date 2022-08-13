@@ -1,0 +1,9 @@
+# .stackbit/models/BlogPage.yaml
+
+name: BlogPage
+label: Blog Home
+hideContent: true
+fields:
+  - type: string
+    name: title
+    required: true
